@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alfedov
+- 👋 Hi, I’m @Artёm
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning In sharag
 - 💞️ I’m looking to collaborate on With StreamCraft
