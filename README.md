@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Artёm
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning In sharag
-- 💞️ I’m looking to collaborate on With StreamCraft
+- 🌱 I’m currently Studying In sharag
 - 📫 How to reach me vk: alfedovdev ds: Alfedov#5850
 
 <!---
