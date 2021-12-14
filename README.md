@@ -7,6 +7,7 @@
 ![NodeJS](https://img.shields.io/badge/-nodejs-090909?style=for-the-badge&logo=nodejs%2b%2b&logoColor=6296CC)
 ![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=c%2b%2b&logoColor=6296CC)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact)](https://github.com/Alfedov/github-readme-stats)    
 
 
 ### Links:
@@ -23,6 +24,5 @@
  <div>
   <a href="https://github.com/Alfedov">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alfedov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact)](https://github.com/Alfedov/github-readme-stats)                     
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact/>                 
 </div>
