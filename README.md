@@ -24,6 +24,5 @@
  <div>
   <a href="https://github.com/Alfedov">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alfedov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact/>   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact&theme=dracula"/>
 </div>
