@@ -1,17 +1,13 @@
 ### Hi! I Artem! I small coder.👨‍💻
 ### I making mini projects to get experience in languages💪
 
-![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=PHP%2b%2b&logoColor=6296CC)
-![React](https://img.shields.io/badge/-reactjs-090909?style=for-the-badge&logo=react-js%2b%2b&logoColor=6296CC)
-![TypeScript](https://img.shields.io/badge/-typescript-090909?style=for-the-badge&logo=typescript)
-![NodeJS](https://img.shields.io/badge/-nodejs-090909?style=for-the-badge&logo=nodejs%2b%2b&logoColor=6296CC)
-![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-css-090909?style=for-the-badge&logo=c%2b%2b&logoColor=6296CC)
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  ![PHP](https://img.shields.io/badge/-php-090909?style=for-the-badge&logo=PHP%2b%2b&logoColor=6296CC)
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 
 
 ### Links:
