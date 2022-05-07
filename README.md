@@ -10,7 +10,8 @@
 
 [<img align="left" alt="ParkerDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="ParkerDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
+[<img align="left" alt="ParkerDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][TG]
+[<img align="left" alt="ParkerDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tg.svg" />][TG]
 <br />
 
 ### Languages and Tools:
@@ -37,3 +38,4 @@
 
 [instagram]: https://www.instagram.com/parkerdev/
 [vk]: https://vk.com/parkerdev
+[TG]: https://t.me/parkerdev
