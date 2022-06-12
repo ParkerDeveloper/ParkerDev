@@ -14,8 +14,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact)](https://github.com/Alfedov/github-readme-stats)
+![ParkerDev GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfedov&show_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact&theme=radical)](https://github.com/Alfedov/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
