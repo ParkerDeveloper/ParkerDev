@@ -15,7 +15,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![ParkerDev GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfedov&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact&theme=radical)](https://github.com/Alfedov/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact&theme=radical)](https://github.com/Alfedov/github-readme-stats)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
