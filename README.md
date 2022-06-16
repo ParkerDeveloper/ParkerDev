@@ -1,3 +1,13 @@
+## I'm a FrontEnd Developer, and BackEnd Developer
+- 💪 I like to write code
+- 🥅 I am constantly learning new things
+
+### Connect with me:
+
+[<img align="left" alt="ParkerDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ParkerDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+<br />
 ### 🛠 &nbsp;Tech Stack
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
@@ -13,14 +23,16 @@
 ![IntellijIDEA](https://img.shields.io/badge/-IntellijIDEA-05122A?style=flat&logo=intellijidea)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-![ParkerDev GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfedov&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&layout=compact&theme=radical)
 
+<br />
+<br />
 
-### 🤝🏻 &nbsp;Connect with Me
+<details>
+  <summary>:zap: Statistics:</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&langs_count=8&layout=compact" />
+    <br />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alfedov&show_icons=true" />
+</details>
 
-<p>
-<img src="https://img.shields.io/badge/-ParkerDev%232751-7289DA?style=flat&logo=Discord&logoColor=white"/>
-<a href="https://t.me/parkerdev"><img src="https://img.shields.io/badge/-ParkerDev-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
-</p>
+[instagram]: https://www.instagram.com/parkerdev/
+[vk]: https://vk.com/parkerdev
