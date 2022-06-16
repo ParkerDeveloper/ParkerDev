@@ -1,7 +1,6 @@
 <h3 align="center">
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
   Welcome to ParkerDev profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
   <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
@@ -21,14 +20,11 @@
 
   📫 How to reach me:  
   Mail me at "fycfy@inbox.ru" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
 
 ## 🌐Socials
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewhiteweb) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CodeWhiteWeb1)
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://vk.com/parkerdev) [![VK]
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://t.me/parkerdev) [![TG]
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 5%> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23430098.svg?style=for-the-badge&logo=php&logoColor=white) 
