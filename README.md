@@ -1,4 +1,4 @@
-## I'm a FrontEnd Developer, and BackEnd Developer
+## I'm a BackEnd Developer
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 
