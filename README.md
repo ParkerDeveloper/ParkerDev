@@ -2,10 +2,6 @@
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
   Welcome to ParkerDev profile!
 </h3>
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student;Web+Dev;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
-</p>
-
 ---
 <div align="center">
   
@@ -36,8 +32,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 [![Code's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alfedov&theme=dracula)](https://skyline.github.com/Alfedov)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alfedov&theme=discord&no-frame=false&no-bg=false&margin-w=4) <a href="https://app.daily.dev/Alfedov">
 
   More Soon...
 ### ✍️Random Dev Quote
