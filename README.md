@@ -2,7 +2,6 @@
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
   Welcome to ParkerDev profile!
 </h3>
----
 <div align="center">
   
 # 💫About Me :
@@ -30,8 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Alfedov&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alfedov&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=00DD8D&fire=DD2727&stroke=DDDDDD&sideNums=DDDDDD)](https://github.com/Alfedov?tab=repositories)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfedov&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-[![Code's github activity graph](https://activity-graph.herokuapp.com/graph?username=Alfedov&theme=dracula)](https://skyline.github.com/Alfedov)
-
 
   More Soon...
 ### ✍️Random Dev Quote
